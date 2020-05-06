@@ -24,10 +24,10 @@ Chandigarh Engineering College
 - BTCS-502: Relational Datbases
 
 MOOCs
- -CS224W: Machine Learning on Graphs (Stanford University)
- -CS231N: Convolutional Neural Networks (Stanford University)
- -CS229: Machine Learning (Stanford University)
- -CMPUT 397: Reinforcement Learning (University of Alberta)
+- CS224W: Machine Learning on Graphs (Stanford University)
+- CS231N: Convolutional Neural Networks (Stanford University)
+- CS229: Machine Learning (Stanford University)
+- CMPUT 397: Reinforcement Learning (University of Alberta)
 
 # Lab Instructor
 - CSCI 1228: <a href="http://cs.smu.ca/~myoung/csci1228/">Advanced Computer Programming and Problem Solving</a> (Winter'20)
