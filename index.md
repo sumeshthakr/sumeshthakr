@@ -33,7 +33,7 @@ MOOCs
 - CSCI 1228: <a href="http://cs.smu.ca/~myoung/csci1228/">Advanced Computer Programming and Problem Solving</a> (Winter'20)
 
 # Teaching Assistant
-- CSCI 1226: <a href="http://cs.smu.ca/~myoung/csci1226/">Introduction to computer Science</a> (Fall'19)
+- CSCI 1226: <a href="http://cs.smu.ca/~myoung/csci1226/">Introduction to Computer Science</a> (Fall'19)
 
 
 
