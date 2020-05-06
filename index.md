@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# About me
+I'm a Master's student at <a href="http://cs.smu.ca/~jiju/"> Graphics & Spatial computing lab, SMU,Halifax </a> , where <a href="http://cs.smu.ca/~jiju/">Dr. Jiju Poovancheri</a> advises me. I completed my B.tech in Computer Science Engineering at the Chandigarh Engineering College, Mohali, Punjab. I have 1.5 years of experience as an innovation engineer, working at <a href="https://www.barrierbreak.com/"> Barrierbreak solutions R&D lab , where I was lead the architecture of <a href="https://www.barrierbreak.com/6by6/"> "6by6" Android toolkit, The first Indian currency detection android application for visual impaired.
 
-You can use the [editor on GitHub](https://github.com/sumeshthakr/sumeshthakr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests lie in the broad areas of Modern Computer Vision, Point Clouds, Convolutional Neural Networks and Graph Representation Learning, especially at their intersection where I model object classification and detection networks in point clouds.  
+ 
+# Updates
+2020
 
-### Markdown
+- Won "Three Minute Thesis" Competition at SMU Halifax for my talk entitled "Dynamic Object Detection in 3D".
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Courses
+Saint Mary's University
+- CSCI-6671: Computer Graphics
+- CSCI-6691: Special Topics in Real-Time 3D Vision
 
-- Bulleted
-- List
+Chandigarh Engineering College 
+- BTCS-701: Artificial Intelligence
+- BTCS-601: Simulation And Modelling
+- BTCS-402: Discrete Structures
+- BTCS-503: Design & Analysis of Algorithms
+- BTCS-502: Relational Datbases
 
-1. Numbered
-2. List
+MOOCs
+ -CS224W: Machine Learning on Graphs (Stanford University)
+ -CS231N: Convolutional Neural Networks (Stanford University)
+ -CS229: Machine Learning (Stanford University)
+ -CMPUT 397: Reinforcement Learning (University of Alberta)
 
-**Bold** and _Italic_ and `Code` text
+# Lab Instructor
+- CSCI 1228: <a href="http://cs.smu.ca/~myoung/csci1228/">Advanced Computer Programming and Problem Solving</a> (Winter'20)
 
-[Link](url) and ![Image](src)
-```
+# Teaching Assistant
+- CSCI 1226: <a href="http://cs.smu.ca/~myoung/csci1226/">Introduction to computer Science</a> (Fall'19)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumeshthakr/sumeshthakr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# More Info
+<a href="https://github.com/sumeshthakr">Github</a> <br>
+<a href="">Resume</a> <br>
+<a href="https://www.linkedin.com/in/sumeshthkr/>LinkedIn Profile</a> <br>
+<a href="https://twitter.com/sumesh_thakur">Twitter Profile</a>
