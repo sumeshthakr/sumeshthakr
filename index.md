@@ -2,7 +2,7 @@
 I'm a Master's student at<a href="http://cs.smu.ca/~jiju/"> Graphics & Spatial Computing Lab, Saint Mary's University,Halifax </a>, where<a href="http://cs.smu.ca/~jiju/"> Dr. Jiju Poovancheri</a> advises me. I completed my B.tech in Computer Science Engineering at the Chandigarh Engineering College, Mohali, Punjab. I have 1.5 years of experience as an innovation engineer, working at <a href="https://www.barrierbreak.com/"> Barrierbreak solutions R&D lab </a>, where I was lead the architecture of <a href="https://www.barrierbreak.com/6by6/"> "6by6" </a> Android toolkit, The first Indian currency detection android application for visual impaired.
 
 
-My research interests lie in the broad areas of Modern Computer Vision, Point Clouds, Convolutional Neural Networks and Graph Representation Learning, especially at their intersection where I model object classification and detection networks in point clouds.  
+My research interests lies in the broad areas of <b>modern computer vision</b>, <b>3D point clouds</b>, <b>convolutional neural networks</b> and <b>graph representation learning</b>, especially at their intersection where I model object classification and detection networks in 3D point clouds.  
  
 # Updates
 2020
