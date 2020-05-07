@@ -7,7 +7,7 @@ My research interests lies in the broad areas of <b>modern computer vision</b>, 
 # Updates
 2020
 
-- Won "Three Minute Thesis" Competition at SMU Halifax for my talk entitled "Dynamic Object Detection in 3D".
+-<a href="https://campusnews.smu.ca/research-academics/2020/3/13/three-minute-thesis-winner-to-represent-saint-marys-at-atlantic-competition">Won "Three Minute Thesis" Competition held at SMU Halifax for my talk entitled "Dynamic Object Detection in 3D".</a>
 
 
 
