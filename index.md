@@ -11,7 +11,10 @@ My research interests lies in the broad areas of <b>modern computer vision</b>, 
 
 # Projects
 - <a href="https://github.com/sumeshthakr/PointCloudSampling">Poisson Grid Sampling in 3D Pointclouds. </a>
-  ![Pointcloud generated using Poisson grid](https://github.com/sumeshthakr/PointCloudSampling/blob/master/Poisson.png=250*250)
+  ![Pointcloud generated using Poisson grid](https://github.com/sumeshthakr/PointCloudSampling/blob/master/Poisson.png =250x250)
+-  Point Cloud Segmentation and Clustering using RANSAC, and K-D Trees.
+  ![RANSAC and K-D Trees](https://github.com/sumeshthakr/PointCloudSampling/blob/master/3dbbbox.jpg =250x250)
+
 
 # Courses
 Saint Mary's University
