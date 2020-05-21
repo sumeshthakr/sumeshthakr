@@ -9,7 +9,9 @@ My research interests lies in the broad areas of <b>modern computer vision</b>, 
 
 - <a href="https://campusnews.smu.ca/research-academics/2020/3/13/three-minute-thesis-winner-to-represent-saint-marys-at-atlantic-competition">Won "Three Minute Thesis" Competition held at SMU Halifax for my talk entitled "Dynamic Object Detection in 3D".</a>
 
-
+# Projects
+- <a href="https://github.com/sumeshthakr/PointCloudSampling">Poisson Grid Sampling in 3D Pointclouds. </a>
+  ![Pointcloud generated using Poisson grid](https://github.com/sumeshthakr/PointCloudSampling/blob/master/Poisson.png)
 
 # Courses
 Saint Mary's University
