@@ -11,7 +11,7 @@ My research interests lies in the broad areas of <b>modern computer vision</b>, 
 
 # Projects
 - <a href="https://github.com/sumeshthakr/PointCloudSampling">Poisson Grid Sampling in 3D Pointclouds. </a>
-  ![Pointcloud generated using Poisson grid](https://github.com/sumeshthakr/PointCloudSampling/blob/master/Poisson.png)
+  ![Pointcloud generated using Poisson grid](https://github.com/sumeshthakr/PointCloudSampling/blob/master/Poisson.png=250*250)
 
 # Courses
 Saint Mary's University
