@@ -44,6 +44,6 @@ MOOCs
 
 # More Info
 <a href="https://github.com/sumeshthakr">Github</a> <br>
-<a href="">Resume</a> <br>
+<a href="https://github.com/sumeshthakr/sumeshthakr.github.io/blob/master/Sumesh%2BThakur_Resume_May21.pdf">Resume</a> <br>
 <a href="https://www.linkedin.com/in/sumeshthkr/">LinkedIn Profile</a> <br>
 <a href="https://twitter.com/sumesh_thakur">Twitter Profile</a>
