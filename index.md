@@ -6,7 +6,7 @@ My research interests lies in the broad areas of <b>modern computer vision</b>, 
  
 # Updates
 2020
-- 1 paper accepted at IET Electronics Letter, Pandey,  "Towards Video based Collective MotionAnalysis through Shape Tracking andMatching." Electronics Letters (2020).
+- 1 paper accepted at IET Electronics Letter, "Towards Video based Collective Motion Analysis through Shape Tracking and Matching." Electronics Letters (2020).
 - <a href="https://campusnews.smu.ca/research-academics/2020/3/13/three-minute-thesis-winner-to-represent-saint-marys-at-atlantic-competition">Won "Three Minute Thesis" Competition held at SMU Halifax for my talk entitled "Dynamic Object Detection in 3D".</a>
 
 # Projects
@@ -44,6 +44,6 @@ MOOCs
 
 # More Info
 <a href="https://github.com/sumeshthakr">Github</a> <br>
-<a href="https://raw.githubusercontent.com/sumeshthakr/sumeshthakr.github.io/master/Sumesh%2BThakur_Resume_May21.pdf">Resume</a> <br>
+<a href="https://github.com/sumeshthakr/sumeshthakr.github.io/blob/master/Sumesh%20Thakur_Resume_June3.pdf">Resume/CV</a> <br>
 <a href="https://www.linkedin.com/in/sumeshthkr/">LinkedIn Profile</a> <br>
 <a href="https://twitter.com/sumesh_thakur">Twitter Profile</a>
