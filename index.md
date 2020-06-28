@@ -6,7 +6,7 @@ My research interests lies in the broad areas of <b>modern computer vision</b>, 
  
 # Updates
 2020
-
+- 1 paper accepted at IET Electronics Letter, Pandey,  "Towards Video based Collective MotionAnalysis through Shape Tracking andMatching." Electronics Letters (2020).
 - <a href="https://campusnews.smu.ca/research-academics/2020/3/13/three-minute-thesis-winner-to-represent-saint-marys-at-atlantic-competition">Won "Three Minute Thesis" Competition held at SMU Halifax for my talk entitled "Dynamic Object Detection in 3D".</a>
 
 # Projects
